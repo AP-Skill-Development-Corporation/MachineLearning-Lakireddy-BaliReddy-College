@@ -1,6 +1,7 @@
 # MachineLearning-Lakireddy-BaliReddy-College
 - [Anaconda Navigator Download](https://www.anaconda.com/products/individual)
 - [Anconda Navigator Installation](https://docs.anaconda.com/anaconda/install/windows/)
+- [Registered Students data](https://docs.google.com/spreadsheets/d/1cRSu50hkB4hkCdhszG4CaJpRw5QqgTHucHID9qNRRXg/edit?usp=sharing)
 
 ### Recorded Session Links
 *Note: Please download the recorded videos*
